@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
 <p><em>Security Analyst from Myanmar.</em></p>
 
-[![Linkedin: Kaung](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaung-htet-zaw-4b8aa1184))
+[![Linkedin: Kaung](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaung-htet-zaw-4b8aa1184)
 [![GitHub Kaung](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaung1337)
 [![fb kaung](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mgjohntwo)
 

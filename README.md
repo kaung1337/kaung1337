@@ -11,7 +11,7 @@
 
 ```css
 #kaunghtet { 
-  position: security analyst; 
+  position: Pentester; 
   height: 171cm; 
   display: boy; 
   background: Tinker Resolver 🔨; 

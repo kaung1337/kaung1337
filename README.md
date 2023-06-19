@@ -1,6 +1,6 @@
 <h2> Hi, I'm Kaung Htet Zaw! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
-<p><em>Security Analyst from Myanmar.</em></p>
+<p><em>Pentester from Myanmar.</em></p>
 
 [![Linkedin: Kaung](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaung-htet-zaw-4b8aa1184)
 [![GitHub Kaung](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaung1337)
